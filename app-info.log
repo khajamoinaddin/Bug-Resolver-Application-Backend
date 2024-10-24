@@ -1,0 +1,1559 @@
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:21:18.628Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:21:18.635Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:22:24.756Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:22:24.760Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:25:54.156Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:25:54.160Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:26:11.829Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:26:11.833Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:28:31.339Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:28:31.343Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:29:20.671Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:29:20.674Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:31:26.995Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:31:26.999Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:32:12.204Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:32:12.208Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:34:19.896Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:34:19.899Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:34:36.135Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:34:36.139Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:41:09.555Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:41:09.560Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:43:14.439Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:43:14.443Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:46:47.660Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:46:47.663Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T04:47:46.746Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T04:47:46.749Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T04:48:10.227Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T04:49:05.355Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T04:49:25.198Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T04:49:45.646Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T04:50:15.317Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:07:46.546Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:07:46.550Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:08:21.294Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:08:21.298Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:11:54.241Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:11:54.245Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:12:01.835Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:12:01.839Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:15:01.903Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:15:01.907Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:15:46.246Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:15:46.251Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T05:17:38.742Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T05:18:50.548Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T05:21:15.252Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:22:14.996Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:22:14.999Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T05:22:17.851Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T05:22:30.614Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T05:22:37.185Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-06T05:22:37.305Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T05:24:01.070Z"}
+{"level":"error","message":"Controller-user.controller-LoginUserController-error errorConstant is not defined","stack":"ReferenceError: errorConstant is not defined\n    at module.exports.LoginUserController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:36:39)","timestamp":"2024-10-06T05:24:01.175Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:24:53.385Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:24:53.388Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T05:24:55.873Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:25:43.143Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:25:43.147Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T05:25:47.478Z"}
+{"level":"error","message":"Controller-user.controller-LoginUserController-error INVALID_EMAIL_PASSWORDD is not defined","stack":"ReferenceError: INVALID_EMAIL_PASSWORDD is not defined\n    at module.exports.LoginUserController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:36:39)","timestamp":"2024-10-06T05:25:47.612Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:26:06.688Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:26:06.691Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:26:13.910Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:26:13.914Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T05:26:14.541Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:27:07.481Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:27:07.485Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:27:48.525Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:27:48.528Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:30:36.249Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:30:36.253Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T05:30:51.062Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T05:31:03.391Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-06T05:31:03.516Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:35:17.362Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:35:17.365Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:36:40.252Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:36:40.255Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:37:27.381Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:37:27.384Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:37:35.520Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:37:35.524Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:38:18.718Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:38:18.723Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:38:38.922Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:38:38.927Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:39:23.255Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:39:23.260Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:39:42.499Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:39:42.502Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:41:21.570Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:41:21.574Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:46:26.629Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:46:26.632Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:47:10.201Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:47:10.205Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:47:41.345Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:47:41.349Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:47:54.144Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:47:54.147Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:49:07.781Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:49:07.786Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:50:12.909Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:50:12.913Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:50:29.904Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:50:29.908Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:51:12.566Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:51:12.570Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:52:26.786Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:52:26.790Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-06T05:52:29.517Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-06T05:52:29.523Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:58:06.706Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:58:06.709Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T05:58:23.765Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T05:58:23.769Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:01:17.203Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:01:17.207Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:01:22.421Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:01:22.425Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:01:55.939Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:01:55.943Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:02:52.816Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:02:52.819Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:06:01.183Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:06:01.187Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-06T06:06:06.160Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-06T06:06:06.165Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:06:47.261Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:06:47.266Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-start","timestamp":"2024-10-06T06:06:54.092Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-start","timestamp":"2024-10-06T06:07:12.629Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:07:27.119Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:07:27.122Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-start","timestamp":"2024-10-06T06:07:29.895Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-End","timestamp":"2024-10-06T06:07:29.967Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-06T06:07:35.676Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-06T06:07:35.678Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-start","timestamp":"2024-10-06T06:08:34.545Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-End","timestamp":"2024-10-06T06:08:34.605Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-06T06:08:37.283Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-06T06:08:37.285Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:10:42.039Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:10:42.043Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:11:51.466Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:11:51.469Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:13:53.913Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:13:53.917Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:14:25.454Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:14:25.458Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:15:35.034Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:15:35.039Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:15:38.065Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:15:38.069Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:55:40.528Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:55:40.536Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:58:21.592Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:58:21.598Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T06:58:52.034Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T06:58:52.041Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T07:00:35.493Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T07:00:35.499Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-06T07:01:04.526Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-06T07:01:04.819Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T07:01:57.467Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T07:01:57.472Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-06T07:02:03.750Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-06T07:02:04.052Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T07:02:11.293Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T07:02:11.299Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T07:02:49.081Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T07:02:49.086Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T07:02:59.104Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T07:02:59.111Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T07:22:32.887Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T07:22:32.891Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T07:22:36.327Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T07:22:36.332Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T10:30:56.581Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T10:30:56.585Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-06T10:31:28.874Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-06T10:31:28.884Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T10:32:56.886Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T10:32:56.893Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T10:33:40.380Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-End","timestamp":"2024-10-06T10:33:40.854Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T10:34:39.528Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-06T10:34:39.997Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-06T10:35:18.334Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-06T10:35:18.547Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T10:37:02.397Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T10:37:02.406Z"}
+{"level":"warn","message":"Controller-user.GetSingleUserDetailcontroller-start","timestamp":"2024-10-06T10:37:56.354Z"}
+{"kind":"ObjectId","level":"warn","message":"Controller-user.GetSingleUserDetailcontroller-Error Cast to ObjectId failed for value \"            \"_id\": \"670216e9c389f65a1164d58d\",\\n\" (type string) at path \"_id\" for model \"user\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"            \"_id\": \"670216e9c389f65a1164d58d\",\\n\" (type string) at path \"_id\" for model \"user\"\n    at SchemaObjectId.cast (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\schemaType.js:1236:12)\n    at SchemaType.castForQuery (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\schemaType.js:1653:17)\n    at cast (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\cast.js:375:32)\n    at Query.cast (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:4798:12)\n    at Query._castConditions (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:2206:10)\n    at model.Query._findOne (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:2526:8)\n    at model.Query.exec (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:4342:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async module.exports.GetSingleUserDetailController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:171:18)","stringValue":"\"            \"_id\": \"670216e9c389f65a1164d58d\",\\n\"","timestamp":"2024-10-06T10:37:56.360Z","value":"            \"_id\": \"670216e9c389f65a1164d58d\",\n","valueType":"string"}
+{"level":"warn","message":"Controller-user.GetSingleUserDetailcontroller-start","timestamp":"2024-10-06T10:38:08.466Z"}
+{"kind":"ObjectId","level":"warn","message":"Controller-user.GetSingleUserDetailcontroller-Error Cast to ObjectId failed for value \"670216e9c389f65a1164d58d\\n\" (type string) at path \"_id\" for model \"user\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"670216e9c389f65a1164d58d\\n\" (type string) at path \"_id\" for model \"user\"\n    at SchemaObjectId.cast (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\schemaType.js:1236:12)\n    at SchemaType.castForQuery (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\schemaType.js:1653:17)\n    at cast (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\cast.js:375:32)\n    at Query.cast (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:4798:12)\n    at Query._castConditions (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:2206:10)\n    at model.Query._findOne (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:2526:8)\n    at model.Query.exec (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:4342:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async module.exports.GetSingleUserDetailController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:171:18)","stringValue":"\"670216e9c389f65a1164d58d\\n\"","timestamp":"2024-10-06T10:38:08.467Z","value":"670216e9c389f65a1164d58d\n","valueType":"string"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T10:38:39.231Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T10:38:39.237Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T10:39:01.278Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T10:39:01.283Z"}
+{"level":"warn","message":"Controller-user.GetSingleUserDetailcontroller-start","timestamp":"2024-10-06T10:39:08.400Z"}
+{"level":"warn","message":"Controller-user.GetSingleUserDetailcontroller-End","timestamp":"2024-10-06T10:39:08.689Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T10:39:58.574Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T10:39:58.582Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T10:40:13.175Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T10:40:13.181Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:05:52.631Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:05:52.637Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:07:46.457Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:07:46.462Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:13:01.280Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:13:01.286Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:16:22.701Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:16:22.713Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:17:03.835Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:17:03.842Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:18:31.469Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:18:31.498Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:20:57.721Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:20:57.728Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:44:35.829Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:44:35.838Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:45:16.748Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:45:16.755Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T11:45:42.625Z"}
+{"level":"error","message":"Controller-user.controller-LoginUserController-error Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at module.exports.LoginUserController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:58:24)","timestamp":"2024-10-06T11:45:43.039Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:46:50.358Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:46:50.364Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T11:46:59.574Z"}
+{"level":"error","message":"Controller-user.controller-LoginUserController-error Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at module.exports.LoginUserController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:58:24)","timestamp":"2024-10-06T11:46:59.824Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:47:55.480Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:47:55.485Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T11:47:59.823Z"}
+{"level":"error","message":"Controller-user.controller-LoginUserController-error moment.format is not a function","stack":"TypeError: moment.format is not a function\n    at module.exports.LoginUserController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:60:32)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-10-06T11:48:00.114Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:48:18.501Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:48:18.510Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T11:48:22.534Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-06T11:48:22.927Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T11:49:00.567Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-06T11:49:01.260Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:56:28.030Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:56:28.037Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:56:48.153Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:56:48.159Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:57:43.797Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:57:43.805Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:57:48.809Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:57:48.814Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T11:58:27.199Z"}
+{"level":"error","message":"Controller-user.controller-LogoutUserController-error userExist is not defined","stack":"ReferenceError: userExist is not defined\n    at module.exports.LogoutUserController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:152:17)\n    at Layer.handle [as handle_request] (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at module.exports.Authentication (C:\\OtherDrive\\othes\\Khajaproject\\src\\Middlewares\\Auth.middleware.js:32:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-10-06T11:58:27.202Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T11:58:55.581Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T11:58:55.587Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T11:59:01.184Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T11:59:34.193Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:00:57.596Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:00:57.603Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T12:01:03.233Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:08:28.835Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:08:28.839Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T12:08:32.549Z"}
+{"level":"error","message":"Controller-user.controller-LogoutUserController-error currentDate.diff is not a function","stack":"TypeError: currentDate.diff is not a function\n    at module.exports.LogoutUserController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:168:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-10-06T12:08:32.632Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:10:31.088Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:10:31.093Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T12:10:35.067Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:18:38.155Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:18:38.162Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T12:18:48.898Z"}
+{"level":"error","message":"Controller-user.controller-LogoutUserController-error Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at module.exports.LogoutUserController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:174:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-10-06T12:18:48.990Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:19:37.445Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:19:37.451Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:19:51.713Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:19:51.719Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T12:19:53.733Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:20:48.815Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:20:48.818Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T12:20:53.256Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:22:36.676Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:22:36.682Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T12:22:41.860Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:23:44.373Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:23:44.378Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T12:23:49.195Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-06T12:24:07.009Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-06T12:24:07.810Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-06T12:24:22.086Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:24:59.429Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:24:59.433Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:30:12.972Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:30:12.978Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:38:14.388Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:38:14.393Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:40:36.420Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:40:36.423Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:41:15.580Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:41:15.587Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:42:34.958Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:42:34.963Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:44:26.806Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:44:26.813Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:45:01.129Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:45:01.135Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-06T12:45:20.161Z"}
+{"level":"error","message":"Controller-user.GetUserReportscontroller-Error userId is not defined","stack":"ReferenceError: userId is not defined\n    at module.exports.GetUserReportsController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\useractivity.controller.js:19:7)\n    at Layer.handle [as handle_request] (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at module.exports.Authentication (C:\\OtherDrive\\othes\\Khajaproject\\src\\Middlewares\\Auth.middleware.js:32:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-10-06T12:45:20.165Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:47:35.564Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:47:35.572Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-06T12:47:43.079Z"}
+{"level":"error","message":"Controller-user.GetUserReportscontroller-Error userId is not defined","stack":"ReferenceError: userId is not defined\n    at module.exports.GetUserReportsController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\useractivity.controller.js:21:7)\n    at Layer.handle [as handle_request] (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at module.exports.Authentication (C:\\OtherDrive\\othes\\Khajaproject\\src\\Middlewares\\Auth.middleware.js:32:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-10-06T12:47:43.087Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:48:25.982Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:48:25.987Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-06T12:48:33.601Z"}
+{"level":"error","message":"Controller-user.GetUserReportscontroller-Error userId is not defined","stack":"ReferenceError: userId is not defined\n    at module.exports.GetUserReportsController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\useractivity.controller.js:21:7)\n    at Layer.handle [as handle_request] (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at module.exports.Authentication (C:\\OtherDrive\\othes\\Khajaproject\\src\\Middlewares\\Auth.middleware.js:32:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-10-06T12:48:33.608Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:48:55.571Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:48:55.575Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-06T12:48:59.124Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-06T12:48:59.204Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:50:07.241Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:50:07.247Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:51:02.034Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:51:02.040Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-06T12:51:19.491Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-06T12:51:19.590Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-06T12:51:49.025Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-06T12:51:49.338Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:52:16.249Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:52:16.254Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-06T12:52:45.753Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-06T12:52:46.041Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T12:55:17.259Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T12:55:17.268Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:42:09.023Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:42:09.027Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:42:55.849Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:42:55.853Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:46:45.497Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:46:45.500Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:48:15.199Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:48:15.203Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:48:46.998Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:48:47.003Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:51:29.313Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:51:29.317Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:52:01.863Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:52:01.867Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:52:12.059Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:52:12.062Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:56:02.751Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:56:02.755Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:56:27.526Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:56:27.530Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:58:49.787Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:58:49.792Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:59:27.466Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:59:27.470Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T13:59:48.077Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T13:59:48.081Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:01:16.921Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:01:16.925Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:02:47.822Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:02:47.825Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:03:39.983Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:03:39.986Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:04:05.723Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:04:05.727Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:04:10.264Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:04:10.269Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:04:14.167Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:04:14.170Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:04:18.220Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:04:18.225Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:06:00.311Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:06:00.316Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:07:30.399Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:07:30.402Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:07:37.968Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:07:37.972Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:08:28.844Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:08:28.850Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:08:36.063Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:08:36.067Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T14:08:41.927Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T14:09:29.807Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-End","timestamp":"2024-10-06T14:09:30.069Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T14:09:40.914Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-End","timestamp":"2024-10-06T14:09:41.118Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T14:09:51.230Z"}
+{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: BugresolverDB.users index: phone_1 dup key: { phone: \"9396471174\" }","index":0,"keyPattern":{"phone":1},"keyValue":{"phone":"9396471174"}},"index":0,"keyPattern":{"phone":1},"keyValue":{"phone":"9396471174"},"level":"error","message":"Controller-user.controller-RegisterUserController-error E11000 duplicate key error collection: BugresolverDB.users index: phone_1 dup key: { phone: \"9396471174\" }","stack":"MongoServerError: E11000 duplicate key error collection: BugresolverDB.users index: phone_1 dup key: { phone: \"9396471174\" }\n    at InsertOneOperation.execute (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async executeOperation (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:136:16)\n    at async Collection.insertOne (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\collection.js:155:16)","timestamp":"2024-10-06T14:09:51.426Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T14:10:01.786Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-End","timestamp":"2024-10-06T14:10:01.990Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:49:10.947Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:49:10.952Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:49:14.623Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:49:14.629Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:49:37.743Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:49:37.752Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-06T14:50:34.764Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T14:51:50.658Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T14:52:22.751Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:53:20.647Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:53:20.652Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T14:53:41.002Z"}
+{"_message":"bug validation failed","errors":{"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}}},"level":"error","message":"Controller-bug.controller-CreatedBugController-error bug validation failed: description: Path `description` is required.","stack":"ValidationError: bug validation failed: description: Path `description` is required.\n    at Document.invalidate (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\document.js:3306:32)\n    at C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\document.js:3067:17\n    at C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2024-10-06T14:53:41.043Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:54:08.257Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:54:08.263Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T14:54:11.831Z"}
+{"_message":"bug validation failed","errors":{"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}}},"level":"error","message":"Controller-bug.controller-CreatedBugController-error bug validation failed: description: Path `description` is required.","stack":"ValidationError: bug validation failed: description: Path `description` is required.\n    at Document.invalidate (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\document.js:3306:32)\n    at C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\document.js:3067:17\n    at C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2024-10-06T14:54:11.857Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:54:23.190Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:54:23.196Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T14:54:26.938Z"}
+{"_message":"bug validation failed","errors":{"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}}},"level":"error","message":"Controller-bug.controller-CreatedBugController-error bug validation failed: description: Path `description` is required.","stack":"ValidationError: bug validation failed: description: Path `description` is required.\n    at Document.invalidate (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\document.js:3306:32)\n    at C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\document.js:3067:17\n    at C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2024-10-06T14:54:26.970Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:54:49.463Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:54:49.470Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:55:27.883Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:55:27.888Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:55:36.563Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:55:36.569Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T14:55:38.243Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-06T14:55:38.560Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:59:09.001Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:59:09.007Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:59:40.608Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:59:40.615Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T14:59:50.793Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T14:59:50.798Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:00:32.850Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:00:32.855Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:01:16.616Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:01:16.622Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:01:22.960Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:01:22.970Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:02:01.030Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:02:01.035Z"}
+{"level":"warn","message":"Controller-bug.controller-SingleBugDetailsController-Start","timestamp":"2024-10-06T15:02:12.947Z"}
+{"level":"warn","message":"Controller-bug.controller-SingleBugDetailsController-End","timestamp":"2024-10-06T15:02:13.120Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:02:30.178Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:02:30.184Z"}
+{"level":"warn","message":"Controller-bug.controller-SingleBugDetailsController-Start","timestamp":"2024-10-06T15:02:31.889Z"}
+{"level":"warn","message":"Controller-bug.controller-SingleBugDetailsController-End","timestamp":"2024-10-06T15:02:32.171Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:03:30.283Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:03:30.289Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:06:04.611Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:06:04.617Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:06:22.028Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:06:22.033Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:06:55.190Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:06:55.195Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T15:07:00.412Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-06T15:07:00.670Z"}
+{"level":"warn","message":"Controller-bug.controller-DeleteBugController-Start","timestamp":"2024-10-06T15:07:42.812Z"}
+{"level":"warn","message":"Controller-bug.controller-DeleteBugController-End","timestamp":"2024-10-06T15:07:42.879Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:09:44.227Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:09:44.233Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:12:00.819Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:12:00.824Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:12:30.173Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:12:30.178Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:13:46.556Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:13:46.561Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateDetailsBugController-Start","timestamp":"2024-10-06T15:14:51.493Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:15:03.195Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:15:03.200Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateDetailsBugController-Start","timestamp":"2024-10-06T15:15:07.768Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateDetailsBugController-End","timestamp":"2024-10-06T15:15:07.923Z"}
+{"level":"warn","message":"Controller-bug.controller-SingleBugDetailsController-Start","timestamp":"2024-10-06T15:15:16.610Z"}
+{"level":"warn","message":"Controller-bug.controller-SingleBugDetailsController-End","timestamp":"2024-10-06T15:15:16.981Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:17:45.137Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:17:45.143Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:19:20.755Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:19:20.761Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:19:48.332Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:19:48.337Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:20:09.781Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:20:09.786Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:21:12.678Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:21:12.687Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-06T15:21:14.975Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-End","timestamp":"2024-10-06T15:21:15.129Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:23:59.955Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:23:59.960Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-06T15:24:08.387Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-End","timestamp":"2024-10-06T15:24:08.497Z"}
+{"level":"warn","message":"Controller-bug.controller-SingleBugDetailsController-Start","timestamp":"2024-10-06T15:24:14.259Z"}
+{"level":"warn","message":"Controller-bug.controller-SingleBugDetailsController-End","timestamp":"2024-10-06T15:24:14.675Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-06T15:24:28.115Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-06T15:24:37.299Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-End","timestamp":"2024-10-06T15:24:37.605Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:27:54.768Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:27:54.774Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:31:07.977Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:31:08.001Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T15:31:28.403Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-06T15:31:28.660Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T15:31:34.700Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-06T15:31:34.828Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T15:31:38.803Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-06T15:31:39.107Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T15:31:52.553Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-06T15:31:52.630Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T15:31:57.226Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-06T15:31:57.345Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-06T15:32:06.035Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-06T15:32:06.238Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:32:19.192Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:32:19.200Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:43:32.255Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:43:32.260Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-06T15:43:59.482Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-06T15:43:59.994Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:44:32.343Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:44:32.349Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-06T15:44:33.249Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-06T15:44:35.106Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-06T15:44:51.558Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-06T15:44:51.953Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:45:42.466Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:45:42.473Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-06T15:45:54.595Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-06T15:45:54.925Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:46:37.284Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:46:37.289Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:46:40.259Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:46:40.266Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-06T15:47:18.098Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-06T15:47:18.769Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-06T15:47:27.468Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-06T15:47:28.084Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:47:56.671Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:47:56.679Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-06T15:47:57.646Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-06T15:47:59.419Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-06T15:48:07.811Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-06T15:48:08.335Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:48:17.969Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:48:17.975Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T15:48:39.515Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T15:48:39.519Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-06T15:48:42.960Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-06T15:48:43.186Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T16:01:59.517Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T16:01:59.521Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T16:02:11.667Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T16:02:11.673Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-06T16:02:40.024Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-06T16:02:40.033Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-06T16:03:14.436Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-07T04:13:50.080Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-07T04:13:50.085Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T04:31:48.125Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T04:33:52.091Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T04:34:06.486Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T04:34:16.929Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T04:34:30.550Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-07T04:48:12.622Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T04:48:27.706Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T04:48:59.732Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-07T04:49:00.499Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T04:51:04.626Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-07T04:51:05.286Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-07T05:12:41.979Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T05:17:43.806Z"}
+{"level":"error","message":"Controller-user.controller-LoginUserController-error getaddrinfo ENOTFOUND cluster0-shard-00-01.w0niv.mongodb.net","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":{"$oid":"7fffffff000000000000007c"},"maxSetVersion":125,"servers":{"cluster0-shard-00-00.w0niv.mongodb.net:27017":{"$clusterTime":null,"address":"cluster0-shard-00-00.w0niv.mongodb.net:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"lastUpdateTime":56813726,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxWireVersion":0,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"cluster0-shard-00-01.w0niv.mongodb.net:27017":{"$clusterTime":null,"address":"cluster0-shard-00-01.w0niv.mongodb.net:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"lastUpdateTime":56813726,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxWireVersion":0,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"cluster0-shard-00-02.w0niv.mongodb.net:27017":{"$clusterTime":null,"address":"cluster0-shard-00-02.w0niv.mongodb.net:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"lastUpdateTime":56813726,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxWireVersion":0,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":"atlas-7sy8s7-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongoServerSelectionError: getaddrinfo ENOTFOUND cluster0-shard-00-01.w0niv.mongodb.net\n    at Topology.selectServer (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\sdam\\topology.js:303:38)\n    at async executeOperation (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:101:20)\n    at async FindCursor._initialize (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\cursor\\find_cursor.js:58:26)\n    at async [kInit] (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:463:27)\n    at async next (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:520:13)\n    at async FindCursor.next (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:237:16)\n    at async Collection.findOne (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongodb\\lib\\collection.js:275:21)\n    at async model.Query._findOne (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:2539:15)\n    at async model.Query.exec (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\mongoose\\lib\\query.js:4342:63)\n    at async module.exports.LoginUserController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\user.controller.js:32:23)","timestamp":"2024-10-07T05:18:13.839Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-07T05:18:40.520Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-07T05:18:40.526Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T05:18:40.698Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-07T05:18:42.032Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-07T05:22:31.153Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-07T05:22:31.337Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-07T13:10:16.542Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-07T13:10:16.551Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-07T13:49:38.137Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-07T13:49:38.223Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-07T13:49:38.306Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-07T13:49:38.370Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-07T13:49:45.184Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-07T13:49:45.322Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-07T13:49:45.489Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-07T13:49:45.594Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-07T13:51:06.360Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-07T13:51:21.607Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-07T13:51:22.204Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T13:57:47.799Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T13:57:47.822Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T13:57:47.919Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T13:57:47.932Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T13:58:33.742Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T13:58:33.750Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T13:58:34.106Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T13:58:34.113Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:05:27.797Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:05:27.806Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:05:28.080Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:05:28.087Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:06:06.980Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:06:06.986Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:06:07.286Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:06:07.289Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:14:18.585Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:14:18.591Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:14:18.698Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:14:18.704Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:18:01.899Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:18:01.917Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:18:02.120Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:18:02.129Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:19:44.788Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:19:44.795Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:19:44.906Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:19:44.911Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:20:54.631Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:20:55.038Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:21:03.553Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:21:03.670Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:26:08.982Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:26:08.995Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:26:09.384Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:26:09.389Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:26:20.864Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:26:21.217Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:26:23.420Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:26:23.720Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:26:25.128Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:26:25.246Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:26:28.265Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:26:28.630Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:26:40.032Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:26:40.040Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:26:40.312Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:26:40.320Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:26:54.048Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:26:54.256Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-07T14:31:18.285Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:37:32.907Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:37:33.100Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:40:39.419Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:40:39.644Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-07T14:40:39.729Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-07T14:40:40.136Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-07T14:53:09.923Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-07T14:53:10.267Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-07T14:53:13.135Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-07T14:53:13.317Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-08T13:26:32.765Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-08T13:26:32.772Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T13:27:46.030Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T13:27:46.259Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T13:27:46.366Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T13:27:46.509Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-08T13:28:04.914Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-08T13:42:20.918Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-08T13:43:12.787Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-08T13:43:19.000Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-08T13:43:24.748Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-End","timestamp":"2024-10-08T13:43:25.263Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-start","timestamp":"2024-10-08T13:46:32.841Z"}
+{"level":"warn","message":"Controller-user.controller-RegisterUserController-End","timestamp":"2024-10-08T13:46:33.289Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T13:47:53.006Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T13:47:53.009Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-08T13:51:07.424Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-08T13:51:08.211Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T13:51:25.849Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T13:51:25.920Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T13:51:25.961Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T13:51:26.021Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T13:52:43.795Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T13:52:43.802Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T13:52:44.120Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T13:52:44.125Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T13:55:17.205Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T13:55:17.209Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T13:55:17.215Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T13:55:17.218Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T13:55:35.892Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T13:55:35.900Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T13:55:35.905Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T13:55:35.910Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T13:55:35.916Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T13:55:35.924Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T13:55:36.233Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T13:55:36.513Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T13:55:59.182Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T13:55:59.184Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T13:58:35.418Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T13:58:35.422Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T13:58:35.424Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T13:58:35.594Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T13:58:35.597Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T13:58:35.600Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T13:58:35.674Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T13:58:35.734Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T14:01:49.263Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:01:49.272Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:01:49.274Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T14:01:49.473Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:01:49.479Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:01:49.482Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T14:01:49.611Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T14:01:49.780Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:02:32.180Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:02:32.182Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:10:37.073Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:10:37.076Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-start","timestamp":"2024-10-08T14:15:49.698Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-End","timestamp":"2024-10-08T14:15:49.799Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-start","timestamp":"2024-10-08T14:18:37.069Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-End","timestamp":"2024-10-08T14:18:37.158Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-start","timestamp":"2024-10-08T14:18:53.850Z"}
+{"level":"warn","message":"Controller-user.controller-UpdateUserProfileController-End","timestamp":"2024-10-08T14:18:53.927Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:20:08.239Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:20:08.241Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:20:08.310Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:20:08.312Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:21:58.595Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:21:58.599Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:21:58.677Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:21:58.681Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T14:23:03.027Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T14:23:03.094Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T14:23:03.167Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T14:23:03.237Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-08T14:25:59.335Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-08T14:26:07.759Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-08T14:26:08.042Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T14:26:13.594Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:26:13.599Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:26:13.605Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:26:13.681Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:26:13.688Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T14:26:13.736Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T14:26:13.823Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T14:26:13.957Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T14:27:35.752Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T14:27:35.892Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T14:27:35.961Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T14:27:36.091Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T14:39:38.072Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:39:38.079Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:39:38.084Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T14:39:38.198Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:41:41.126Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:41:41.128Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-08T14:41:41.133Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-08T14:41:41.137Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T14:42:32.673Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T14:42:32.741Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T14:42:40.879Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T14:42:40.888Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T14:42:41.016Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T14:42:41.021Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T14:42:53.940Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T14:42:54.012Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T14:42:54.089Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T14:42:54.160Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T14:42:56.875Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T14:42:57.008Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T14:42:57.082Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T14:42:57.220Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T14:43:00.639Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T14:43:00.710Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T14:43:00.778Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T14:43:00.849Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:18:24.725Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:18:24.858Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:18:24.945Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:18:25.096Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T18:18:29.660Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T18:18:29.723Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T18:18:29.793Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T18:18:29.864Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:19:04.932Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:19:04.939Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:19:05.073Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:19:05.077Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T18:19:09.293Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T18:19:09.299Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T18:19:09.353Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T18:19:09.367Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T18:19:47.003Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T18:19:47.076Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:19:54.828Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:19:54.833Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:19:54.966Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:19:54.969Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T18:19:56.325Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T18:19:56.330Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T18:19:56.394Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T18:19:56.401Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:19:58.596Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:19:58.600Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:19:58.734Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:19:58.740Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T18:20:00.927Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-08T18:20:00.929Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T18:20:00.996Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-08T18:20:01.003Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:20:06.687Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:20:06.826Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-08T18:20:06.905Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-08T18:20:07.022Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T16:11:36.198Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T16:11:36.202Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-11T16:16:28.820Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-11T16:16:29.275Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-11T16:16:39.784Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T16:16:39.806Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T16:16:39.816Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-11T16:16:39.977Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-11T16:16:53.386Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T16:16:53.393Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T16:16:53.395Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-11T16:16:53.671Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T16:21:20.214Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T16:21:20.220Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T16:22:30.775Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T16:22:30.781Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T16:34:19.827Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T16:34:19.832Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T16:37:40.839Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T16:37:40.841Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-11T16:49:29.074Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-11T16:49:37.573Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-11T16:50:19.899Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-11T16:50:20.007Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T16:55:11.909Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T16:55:11.914Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T16:56:01.484Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T16:56:01.493Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T17:00:19.875Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T17:00:19.880Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T17:06:00.259Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T17:06:00.261Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:06:03.353Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:06:03.822Z"}
+{"level":"error","message":"Controller-bug.controller-GetCreatedAllMyBugsController-error totalDocuments is not defined","stack":"ReferenceError: totalDocuments is not defined\n    at module.exports.GetCreatedAllMyBugsController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\bug.controller.js:269:7)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-10-11T17:06:03.824Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T17:06:21.889Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T17:06:21.899Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:06:24.702Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T17:06:25.005Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T17:06:25.014Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:06:25.224Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:15:51.849Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:15:52.118Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:16:03.180Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T17:16:03.186Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T17:16:03.189Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:16:03.484Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:17:58.518Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:17:58.630Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:27:26.735Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:27:26.840Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:29:07.732Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:29:07.842Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:29:25.714Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:29:25.832Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:35:27.734Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T17:35:27.742Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T17:35:27.745Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:35:27.830Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:39:28.720Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:39:28.822Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:40:24.717Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:40:24.828Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:41:06.753Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:41:06.873Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:41:33.706Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:41:33.797Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:41:58.731Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:41:58.832Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:42:14.777Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:42:14.881Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:42:47.752Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:42:47.852Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:43:19.731Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T17:43:19.737Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T17:43:19.743Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:43:19.851Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T17:44:29.949Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T17:44:29.953Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T17:45:04.211Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T17:45:04.214Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:46:22.925Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:46:23.060Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:47:22.771Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:47:22.893Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T17:51:46.317Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T17:51:46.321Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:51:47.859Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T17:51:48.123Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T17:51:48.127Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:51:48.401Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-11T17:52:13.222Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-11T17:52:13.225Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:53:07.745Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:53:07.861Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T17:56:40.729Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T17:56:40.730Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:56:40.736Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:56:40.844Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T17:56:49.304Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T17:56:49.358Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T17:57:04.290Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T17:57:04.389Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-11T17:59:00.447Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-11T17:59:00.564Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T17:59:02.700Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T17:59:02.815Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T17:59:58.698Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T17:59:58.799Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:00:03.585Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T18:00:03.596Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T18:00:03.600Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:00:03.688Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:00:49.722Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:00:49.821Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:01:35.705Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:01:35.813Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:07:06.745Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T18:07:06.757Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T18:07:06.762Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:07:06.850Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:07:52.703Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:07:52.803Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:09:14.717Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:09:14.819Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:10:40.733Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:10:40.831Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:12:38.697Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:12:38.787Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:13:49.711Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:13:49.800Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:15:12.726Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:15:12.835Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:16:55.720Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:16:55.824Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T18:17:11.128Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T18:17:11.129Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:17:11.131Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:17:11.230Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:18:36.706Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:18:36.797Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:19:23.691Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:19:23.782Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:19:29.978Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T18:19:29.983Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T18:19:29.986Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:19:30.077Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:20:01.132Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:20:01.906Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:20:06.711Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:20:06.809Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:20:16.705Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:20:16.800Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:20:42.722Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:20:42.821Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-11T18:21:04.472Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-11T18:21:04.578Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-11T18:21:16.286Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-11T18:21:22.733Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-11T18:21:22.797Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:21:25.739Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:21:25.843Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:24:48.715Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:24:48.829Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:26:51.689Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:26:51.779Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:27:35.784Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T18:27:35.788Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T18:27:35.791Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:27:35.882Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:28:05.722Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:28:05.804Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-11T18:28:10.531Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-End","timestamp":"2024-10-11T18:28:10.595Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:28:10.663Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:28:10.802Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-11T18:28:15.426Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-End","timestamp":"2024-10-11T18:28:15.476Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:28:15.546Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:28:15.685Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:30:13.250Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:30:13.349Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-11T18:30:30.710Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-End","timestamp":"2024-10-11T18:30:30.772Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:30:30.839Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:30:30.932Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-11T18:30:53.823Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-11T18:30:53.826Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-11T18:30:53.829Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-11T18:30:53.932Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T05:24:18.103Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T05:24:18.112Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-12T05:25:41.595Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T05:25:41.609Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T05:25:41.615Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-12T05:25:41.680Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T05:29:48.236Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T05:30:28.994Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T05:30:59.910Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T05:30:59.916Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T05:36:04.248Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T05:36:04.417Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T05:38:06.904Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-12T05:38:07.153Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:31:16.796Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:31:16.803Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:35:55.771Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:35:55.778Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:36:23.350Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:36:23.357Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:36:56.850Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:36:56.855Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:41:01.078Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:41:01.080Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:42:11.017Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:42:11.019Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:43:41.196Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:43:41.198Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:45:23.595Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:45:23.598Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:46:16.031Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:46:16.033Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T06:47:27.603Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T06:47:27.606Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T06:53:26.453Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T06:53:26.460Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T06:54:51.217Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T06:54:51.225Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T06:56:10.496Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T06:58:47.183Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T06:59:48.285Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:00:51.535Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:00:51.541Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:02:00.321Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:02:00.326Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:02:32.099Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:02:32.104Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:04:43.233Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:04:43.238Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:07:44.300Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:07:44.306Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:07:45.795Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:07:45.800Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:13:00.449Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:13:00.456Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T07:14:01.922Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-12T07:14:02.403Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:15:06.627Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:15:06.631Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:21:21.005Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:21:21.015Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:22:02.446Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:22:02.453Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T07:22:23.041Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T07:22:29.816Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-12T07:22:30.097Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:23:23.548Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:23:23.556Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T07:23:38.345Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:24:45.558Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:24:45.564Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:26:26.150Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:26:26.159Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T07:26:30.686Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T07:27:47.965Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:28:30.624Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:28:30.631Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T07:31:03.267Z"}
+{"level":"error","message":"Controller-bug.controller-CreatedBugController-error cloudinary is not defined","stack":"ReferenceError: cloudinary is not defined\n    at module.exports.CreateNewBugController (C:\\OtherDrive\\othes\\Khajaproject\\src\\Controllers\\bug.controller.js:36:23)\n    at Layer.handle [as handle_request] (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at done (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\multer\\lib\\make-middleware.js:45:7)\n    at indicateDone (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\multer\\lib\\make-middleware.js:49:68)\n    at C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\multer\\lib\\make-middleware.js:155:11\n    at WriteStream.<anonymous> (C:\\OtherDrive\\othes\\Khajaproject\\node_modules\\multer\\storage\\disk.js:43:9)\n    at WriteStream.emit (node:events:531:35)\n    at finish (node:internal/streams/writable:946:10)\n    at node:internal/streams/writable:927:13","timestamp":"2024-10-12T07:31:03.305Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:32:19.582Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:32:19.587Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T07:32:22.921Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-12T07:32:30.726Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T07:34:54.864Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T07:34:54.870Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T07:38:34.794Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T07:38:34.801Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-12T07:40:55.582Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-12T07:41:07.074Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T07:46:11.534Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T07:46:12.054Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T07:48:49.834Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T07:48:50.223Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T07:49:35.514Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T07:49:35.985Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T07:50:07.826Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T07:50:07.829Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T07:50:07.833Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T07:50:08.521Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T07:50:24.116Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T07:50:24.727Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T07:54:40.130Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T07:54:40.132Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T07:54:40.136Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T07:54:40.639Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T07:59:58.343Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T07:59:58.346Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:00:27.405Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:00:27.407Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:01:29.363Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:01:29.366Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:09:55.285Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:09:55.289Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:10:09.196Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:10:09.397Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:10:09.399Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:10:09.535Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:11:25.951Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:11:26.057Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:11:26.062Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:11:26.965Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:14:38.189Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:14:38.360Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:14:38.361Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:14:38.718Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:14:59.202Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:14:59.288Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:14:59.295Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:14:59.714Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:15:51.299Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:15:51.697Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:15:51.701Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:15:52.105Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:15:54.412Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:15:54.507Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:15:54.510Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:15:54.769Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:17:07.565Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:17:07.720Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:17:07.724Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:17:08.109Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:17:19.189Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:17:19.396Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:17:19.398Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:17:20.010Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:17:36.150Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:17:36.408Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:17:36.410Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:17:37.011Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:17:53.117Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:17:53.242Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:17:53.245Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:17:53.663Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:18:04.979Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:18:05.173Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:18:05.176Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:18:05.949Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:19:08.188Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:19:08.417Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:19:08.420Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:19:08.827Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:19:20.177Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:19:20.501Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:19:20.504Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:19:20.950Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:19:26.152Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:19:26.442Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:19:26.445Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:19:27.054Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:19:50.969Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:19:51.163Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:19:51.167Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:19:51.529Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:20:08.253Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:20:08.469Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:20:08.472Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:20:08.938Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:20:16.372Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:20:16.656Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:20:45.331Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:20:45.543Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:20:45.547Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:20:45.949Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:20:57.527Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:20:57.799Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T08:21:21.073Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T08:21:21.545Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:21:23.285Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:21:23.768Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-12T08:21:28.199Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-End","timestamp":"2024-10-12T08:21:28.406Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:21:28.651Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:21:29.226Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-12T08:21:42.373Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-End","timestamp":"2024-10-12T08:21:42.607Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:21:42.784Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:21:43.254Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:21:58.801Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:21:59.432Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-12T08:25:50.051Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-12T08:25:50.056Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:25:51.740Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:25:54.679Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:25:54.684Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:25:55.855Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:27:41.856Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:27:42.389Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:29:15.100Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:29:15.545Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:30:16.194Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:30:16.917Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:32:31.627Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:32:31.851Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:35:47.262Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:35:47.904Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:35:56.683Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:35:57.618Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:35:59.212Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:35:59.874Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:37:02.206Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:37:02.216Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:37:03.364Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:37:04.899Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:37:06.533Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:37:06.788Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:37:08.153Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:37:09.817Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:37:12.790Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:37:13.096Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:37:13.099Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:37:13.606Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:37:18.318Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:37:19.233Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:37:20.556Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:37:20.839Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:37:47.237Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:37:48.015Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:37:50.166Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:37:50.339Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:42:59.736Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:43:00.149Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:43:00.152Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:43:00.760Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:44:23.066Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:44:23.410Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:44:25.615Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:44:27.456Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:45:14.996Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:45:15.161Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:45:15.163Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:45:15.533Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:46:06.637Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:46:06.802Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:46:39.411Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:46:39.501Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:46:39.504Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:46:39.656Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:46:44.953Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:46:45.176Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:46:47.197Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:46:47.338Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:48:14.170Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:48:14.963Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:48:18.123Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:48:18.287Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:48:23.375Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:48:23.622Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:48:25.203Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:48:25.442Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:48:34.181Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:48:35.062Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:49:08.008Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:49:08.149Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-12T08:49:09.235Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-12T08:49:16.206Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-12T08:49:16.565Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-12T08:49:16.727Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-12T08:49:16.789Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-12T08:49:23.969Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-12T08:49:28.592Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-12T08:49:39.583Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-12T08:49:39.670Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-12T08:49:39.677Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-12T08:49:40.125Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-12T08:49:42.975Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T08:49:44.805Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T08:49:44.865Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-12T08:49:47.217Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-12T08:49:47.287Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-12T08:49:53.466Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-12T08:49:53.525Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-12T08:49:59.366Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-12T08:49:59.533Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-14T08:42:45.993Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-14T08:42:45.996Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-14T08:43:40.005Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-14T08:43:40.324Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T08:55:00.197Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T08:55:00.198Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-14T08:55:00.200Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-14T08:55:00.228Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T09:03:59.841Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T09:03:59.843Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-14T09:08:15.609Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-14T09:08:15.637Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T09:15:43.800Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T09:15:43.865Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-14T09:17:56.243Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-14T09:40:19.127Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-14T09:40:19.402Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-14T09:42:15.828Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T09:47:44.249Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T09:47:44.251Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T09:47:56.416Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T09:47:56.418Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-14T09:55:13.647Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-14T09:55:13.928Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-14T09:55:13.996Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-14T09:55:14.032Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-14T09:56:05.406Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-14T09:56:05.449Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T09:56:08.739Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T09:56:08.799Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-14T09:56:13.818Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-14T09:56:13.881Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-14T09:56:17.515Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-14T09:56:17.604Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-14T09:56:20.674Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-14T09:56:20.757Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-14T09:56:22.284Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-14T09:56:22.369Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-14T09:56:24.609Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-14T09:56:24.664Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-14T09:56:29.648Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-14T09:56:43.314Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-14T09:56:43.540Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T09:56:55.923Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T09:56:55.976Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T09:58:01.416Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T09:58:01.521Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-14T09:58:08.577Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-14T09:58:18.878Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-14T09:58:20.173Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-14T09:58:26.092Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-14T09:58:26.142Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-Start","timestamp":"2024-10-14T09:59:18.106Z"}
+{"level":"warn","message":"Controller-bug.controller-UpdateBugStatusController-End","timestamp":"2024-10-14T09:59:18.136Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-14T09:59:18.174Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-14T09:59:18.226Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-14T10:00:27.703Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-14T10:01:09.463Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-14T10:03:02.700Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T10:04:30.403Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T10:04:30.404Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T11:05:40.708Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T11:05:40.712Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T11:49:18.524Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T11:49:18.525Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T11:52:56.648Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T11:52:56.651Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T11:53:29.426Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T11:53:29.428Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-14T12:14:34.405Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-14T12:14:34.641Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-14T12:15:00.961Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-14T12:15:01.190Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T12:15:17.470Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T12:15:17.471Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-14T12:15:23.362Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-14T12:15:47.355Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-14T12:15:47.617Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-14T12:17:42.569Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-14T12:17:42.628Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T12:17:57.889Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T12:17:57.941Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-14T12:18:01.005Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-14T12:18:01.142Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T12:18:03.378Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T12:18:03.439Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T12:24:55.417Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T12:24:55.469Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-14T12:24:57.797Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-14T12:24:57.852Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-14T12:25:01.564Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-14T12:25:01.619Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T12:25:46.696Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T12:25:46.753Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-14T12:27:39.060Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-14T12:27:39.117Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T12:27:44.790Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T12:27:44.842Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T12:28:20.040Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T12:28:20.095Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T12:35:20.419Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T12:35:20.420Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-14T12:35:20.422Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-14T12:35:20.474Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-14T12:35:46.530Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-14T12:35:46.531Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-15T05:16:06.909Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-15T05:16:06.911Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-15T05:19:12.906Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-15T05:19:13.568Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T05:33:51.338Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T05:33:51.343Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T05:36:06.823Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T05:36:06.825Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T05:36:09.496Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T05:36:09.498Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T05:37:34.576Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T05:37:34.740Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-15T05:37:54.459Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-15T05:37:57.611Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-15T05:38:11.172Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-15T05:38:12.016Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-15T05:40:04.404Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-15T05:40:04.535Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-15T05:40:06.109Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-15T05:40:06.266Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T05:47:12.828Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T05:47:12.831Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T05:47:12.834Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T05:47:12.894Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T06:22:13.457Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T06:22:13.459Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T06:22:13.463Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T06:22:13.510Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-15T06:24:15.004Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-15T06:37:18.651Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-15T06:37:21.335Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T06:37:41.403Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T06:37:41.406Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-15T06:37:41.410Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-15T06:37:43.346Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T06:40:18.993Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T06:40:18.994Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-15T06:40:18.996Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-15T06:40:19.088Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T06:40:59.355Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T06:40:59.441Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-15T06:41:14.096Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-15T06:41:14.292Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T06:41:17.672Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T06:41:17.721Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-15T06:41:22.908Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-15T06:41:23.094Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T06:44:43.266Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T06:44:43.268Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-15T06:45:00.937Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-15T06:45:01.033Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-15T06:45:05.936Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-15T06:45:06.012Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-15T06:45:09.943Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-15T06:45:10.014Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-15T06:45:18.651Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-15T06:45:18.719Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-15T06:45:39.001Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-15T09:11:50.007Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-15T09:11:50.010Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-15T12:56:13.654Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-15T12:56:13.658Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-15T13:08:46.320Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-15T13:08:49.344Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T13:08:54.402Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T13:08:54.407Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T13:08:54.414Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T13:08:55.429Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-15T13:10:43.828Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-15T13:10:45.815Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-15T13:10:48.901Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-15T13:10:50.923Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-15T13:10:52.225Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-15T13:10:55.847Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-15T13:10:57.897Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-15T13:10:59.864Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-15T13:11:38.041Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-15T13:11:40.084Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-15T13:11:43.034Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-15T13:11:45.206Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-15T13:19:43.407Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-15T13:20:09.956Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-15T13:20:10.346Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-15T13:20:44.909Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-Start","timestamp":"2024-10-15T13:20:59.471Z"}
+{"level":"warn","message":"Controller-bug.controller-CreatedBugController-End","timestamp":"2024-10-15T13:20:59.692Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-15T13:21:03.436Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-15T13:21:04.096Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-15T13:21:13.426Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-15T13:21:13.798Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-15T13:22:18.342Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-15T13:22:18.564Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-15T13:22:20.666Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-15T13:22:20.753Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-15T13:22:32.058Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-15T13:22:32.272Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T13:24:02.585Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T13:24:02.588Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T13:24:37.430Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T13:24:37.507Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T13:41:48.464Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T13:41:48.471Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T13:41:48.473Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T13:41:48.521Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T13:50:57.430Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T13:50:57.438Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T13:50:57.440Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T13:50:57.486Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T13:52:31.838Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T13:52:31.841Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T13:52:31.842Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T13:52:31.869Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T13:52:31.941Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T13:52:31.942Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T13:52:31.944Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T13:52:31.971Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T13:52:51.908Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T13:52:51.913Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T13:52:51.914Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T13:52:52.012Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-15T13:52:52.015Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-15T13:52:52.016Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-15T13:52:52.092Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-15T13:52:52.149Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-15T13:56:34.907Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-16T07:01:13.874Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-16T07:01:13.877Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-16T07:01:57.160Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-16T07:01:57.697Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-16T07:02:00.776Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-16T07:02:00.780Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-16T07:02:00.786Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-16T07:02:00.831Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-16T07:02:35.777Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-16T07:02:35.983Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-16T07:02:39.258Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-16T07:02:39.494Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-16T07:02:43.640Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-16T07:02:43.914Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-16T07:02:47.834Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-16T07:02:48.019Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-Start","timestamp":"2024-10-16T07:02:49.187Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAllBugsController-End","timestamp":"2024-10-16T07:02:49.372Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-Start","timestamp":"2024-10-16T07:02:51.504Z"}
+{"level":"warn","message":"Controller-bug.controller-GetAssignedAllMyBugsController-End","timestamp":"2024-10-16T07:02:51.575Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-16T07:02:57.265Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-start","timestamp":"2024-10-16T07:03:16.690Z"}
+{"level":"warn","message":"Controller-user.controller-LoginUserController-End","timestamp":"2024-10-16T07:03:17.147Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-16T07:03:20.476Z"}
+{"level":"warn","message":"Controller-bug.controller-GetBugsReportGraphController-Start","timestamp":"2024-10-16T07:03:27.083Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-16T07:03:31.436Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-16T07:03:31.497Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-16T07:03:40.738Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-start","timestamp":"2024-10-16T07:03:40.743Z"}
+{"level":"warn","message":"Controller-user.controller-MyProfileUserController-End","timestamp":"2024-10-16T07:03:40.745Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-16T07:03:40.900Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-Start","timestamp":"2024-10-16T07:03:45.817Z"}
+{"level":"warn","message":"Controller-user.GetUserReportscontroller-End","timestamp":"2024-10-16T07:03:45.924Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-16T07:03:50.820Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-16T07:03:50.935Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-Start","timestamp":"2024-10-16T07:04:00.564Z"}
+{"level":"warn","message":"Controller-bug.controller-GetCreatedAllMyBugsController-End","timestamp":"2024-10-16T07:04:00.869Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-start","timestamp":"2024-10-16T07:05:27.396Z"}
+{"level":"warn","message":"Controller-user.GetAllUserscontroller-Controller-End","timestamp":"2024-10-16T07:05:27.601Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-16T07:06:36.042Z"}
+{"level":"warn","message":"Controller-user.controller-LogoutUserController-Start","timestamp":"2024-10-16T07:06:36.157Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-16T07:19:24.390Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-16T07:19:24.395Z"}
+{"level":"info","message":"Server Mode : development","timestamp":"2024-10-18T11:06:35.856Z"}
+{"level":"info","message":"Server is running on  : http://localhost:8000","timestamp":"2024-10-18T11:06:35.859Z"}
